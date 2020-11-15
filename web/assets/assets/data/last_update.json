@@ -1,0 +1,41 @@
+{
+    "last_update": "2020-11-10T16:10:00Z",
+    "update_intervals": [
+        {
+            "round": 1,
+            "active_start_time": "2020-11-12T15:00:00Z",
+            "active_end_time": "2020-11-12T23:00:00Z",
+            "duration": 360000
+        },
+        {
+            "round": 2,
+            "active_start_time": "2020-11-13T15:00:00Z",
+            "active_end_time": "2020-11-13T23:00:00Z",
+            "duration": 360000
+        },
+        {
+            "round": 3,
+            "active_start_time": "2020-11-14T15:00:00Z",
+            "active_end_time": "2020-11-14T23:00:00Z",
+            "duration": 120000
+        },
+        {
+            "round": 4,
+            "active_start_time": "2020-11-15T13:00:00Z",
+            "active_end_time": "2020-11-15T21:00:00Z",
+            "duration": 120000
+        }
+    ],
+    "calls_made": [
+        {
+            "api_key": "k7pz4rnd6g387jxcnyg2dvb3",
+            "user_name": "jared@avtopia.com",
+            "monthly_quota": 0
+        },
+        {
+            "api_key": "fkbpn4xunjbhjjkd3ygs6jms",
+            "user_name": "btownjack@hotmail.com",
+            "monthly_quota": 4
+        }
+    ]
+}

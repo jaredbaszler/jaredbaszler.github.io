@@ -1,0 +1,68 @@
+#### Schedule Header ####
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: public, must-revalidate, max-age=10
+Content-Language: en
+Content-Type: application/json;charset=utf-8
+Date: Mon, 26 Oct 2020 03:01:37 GMT
+Etag: "30f359495218838c102d18413f079484"
+Expires: Mon, 26 Oct 2020 03:01:48 GMT
+Server: Mashery Proxy
+Via: 1.1 varnish (Varnish/5.2),1.1 varnish (Varnish/5.2)
+X-Be-Cache: MISS
+X-Fe-Cache: MISS
+X-Mashery-Responder: prod-j-worker-us-east-1b-53.mashery.com
+X-Plan-Qps-Allotted: 1
+X-Plan-Qps-Current: 1
+X-Plan-Quota-Allotted: 200
+X-Plan-Quota-Current: 4
+X-Varnish: 17983996,46588059
+X-Via: Translation-Proxy
+Content-Length: 74170
+Connection: keep-alive
+
+#### Leaderboard Header ####
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: public,must-revalidate,max-age=4
+Content-Language: en
+Content-Type: application/json;charset=utf-8
+Date: Mon, 26 Oct 2020 03:54:08 GMT
+Etag: "196f6b901c13a496b04930c3fc70b2b0"
+Expires: Mon, 26 Oct 2020 03:56:09 GMT
+Server: Mashery Proxy
+Via: 1.1 varnish (Varnish/5.2)
+X-Be-Cache: MISS
+X-Fe-Cache: MISS
+X-Mashery-Responder: prod-j-worker-us-east-1b-76.mashery.com
+X-Plan-Qps-Allotted: 1
+X-Plan-Qps-Current: 1
+X-Plan-Quota-Allotted: 200
+X-Plan-Quota-Current: 3
+X-Varnish: 46301091
+X-Via: Translation-Proxy
+Content-Length: 61043
+Connection: keep-alive
+
+#### tee time header ####
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: public, must-revalidate, max-age=120
+Content-Language: en
+Content-Type: application/json;charset=utf-8
+Date: Tue, 27 Oct 2020 04:33:38 GMT
+Etag: "22e539f396af0f76ce92edcad1f337b8"
+Expires: Tue, 27 Oct 2020 04:35:39 GMT
+Server: Mashery Proxy
+Via: 1.1 varnish (Varnish/5.2),1.1 varnish (Varnish/5.2)
+X-Be-Cache: MISS
+X-Fe-Cache: MISS
+X-Mashery-Responder: prod-j-worker-us-east-1d-57.mashery.com
+X-Plan-Qps-Allotted: 1
+X-Plan-Qps-Current: 1
+X-Plan-Quota-Allotted: 200
+X-Plan-Quota-Current: 5
+X-Varnish: 15335141,47472851
+X-Via: Translation-Proxy
+Content-Length: 11134
+Connection: keep-alive
