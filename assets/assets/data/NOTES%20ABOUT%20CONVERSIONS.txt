@@ -1,0 +1,18 @@
+** Nuances of the JSON to Dart Model extension: https://marketplace.visualstudio.com/items?itemName=hirantha.json-to-dart
+
+1. If the top most property name equals what the class name is it won't convert.
+    a. Example is teams.json - if you wrap the entire .json into a property 
+       called "fantasy_touranment it won't map for some reason.  It seems to not 
+       like when that property matches the class name.
+
+2. Don't use the Yes/No flag for "enable support for adavnced" quality check.  
+   a. This marks all fields "final" which prevents modification after class is instantiated.
+
+3. The plurality of the objects is not ideal for my personal preference.  
+   a. If there is a JSON array of "team_members" it creates an model called "TeamMembers" 
+      and also names the variable the same.
+   b. I would prefer the way https://app.quicktype.io/ does it where it would name the single object 
+      "TeamMember" and then the List<TeamMember> is named teamMembers.
+
+
+
