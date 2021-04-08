@@ -3,17 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "99124fa1f76af690c1ddf61b520209d5",
-"assets/assets/data/api_keys.json": "0bce21b67d752cc2c341389aa315c21e",
-"assets/assets/data/last_update.json": "e084d222eb7f9193ec8bf8eb29f3b445",
+  "assets/AssetManifest.json": "e2c5abeafd186b084ae7d9bb662b5c6a",
+"assets/assets/data/api_keys.json": "cb51aa5e2b2e588c545375991f2c15f4",
+"assets/assets/data/last_update.json": "1a00d4734eef918954a5863279ef56ec",
 "assets/assets/data/leadboard_in_progress_after_cut.json": "3e9c24d0ca85127d33d7c8ac56f671a6",
 "assets/assets/data/leaderboard.json": "0a8275f9e086a9c07165fe1ee3cb9e93",
 "assets/assets/data/leaderboard_in_progress_before_cut.json": "86bda9edb9756a835c21e190d6acfaca",
-"assets/assets/data/NOTES%2520ABOUT%2520CONVERSIONS.txt": "7b900e8634b4e56b70ec2f3f688d5586",
+"assets/assets/data/NOTES%2520ABOUT%2520CONVERSIONS.txt": "6282a7327eaf815cafb4e642978cd3e8",
+"assets/assets/data/players.json": "557ee5baf29a6e4bbf39e11dda480432",
 "assets/assets/data/responseHeader.txt": "0730bdee90c0de17411d1c81d1a2eebc",
 "assets/assets/data/schedule.json": "2dfde4f3292452b5fc1fff5fd7613d13",
-"assets/assets/data/teams.json": "13523c75875aa289e4cbe0c8a99bf359",
-"assets/assets/data/tee_times.json": "b274e04716dc4d825d484513eedb5d0b",
+"assets/assets/data/teams.json": "8cc39ad70ca1cee72c2454f203e576b6",
+"assets/assets/data/tee_times.json": "bb61f08835453812cd6db8beab88fe9c",
 "assets/assets/data/tournament_summary.json": "236e42b4877705ea1d0f44a299e38bb8",
 "assets/assets/images/masters_logo_only.gif": "9d2e2b657bb9c99cae461542680c3609",
 "assets/assets/images/masters_logo_transparent.jpg": "5cf2be629cfdd09cecdfdcab12a268e8",
@@ -21,14 +22,14 @@ const RESOURCES = {
 "assets/assets/images/masters_with_wordmark.gif": "ad4bb2ecc21918329be116ae9ad8b016",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "055a61c9d84036f17c6494d1b9fd76fe",
+"assets/NOTICES": "bcad1c2b3cd947e9b7cb9c76d8065dea",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "03605a07b7b99b4400b08d2342f96c54",
-"/": "03605a07b7b99b4400b08d2342f96c54",
-"main.dart.js": "aca12415e5d162adc8e51b88c116d496",
+"index.html": "8e630c57200c30ee2aa30531d958e182",
+"/": "8e630c57200c30ee2aa30531d958e182",
+"main.dart.js": "22cf693b67bf0da6c50bbcc3d8ab4a55",
 "manifest.json": "50ba9bc564034218a60724dc1757b8d1",
 "version.json": "8b0b1079a883218abec1c800d5dcc6ca"
 };
@@ -174,7 +175,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }

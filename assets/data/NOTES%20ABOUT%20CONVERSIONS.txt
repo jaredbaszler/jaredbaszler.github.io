@@ -5,7 +5,7 @@
        called "fantasy_touranment it won't map for some reason.  It seems to not 
        like when that property matches the class name.
 
-2. Don't use the Yes/No flag for "enable support for adavnced" quality check.  
+2. Don't use the Yes/No flag for "enable support for advanced" quality check.  
    a. This marks all fields "final" which prevents modification after class is instantiated.
 
 3. The plurality of the objects is not ideal for my personal preference.  
