@@ -3,26 +3,26 @@
     "update_intervals": [
         {
             "round": 1,
-            "active_start_time": "2021-04-08T17:00:00Z",
-            "active_end_time": "2021-04-08T23:59:59Z",
+            "active_start_time": "2022-04-07T17:00:00Z",
+            "active_end_time": "2022-04-07T23:59:59Z",
             "duration": 360000
         },
         {
             "round": 2,
-            "active_start_time": "2021-04-09T17:00:00Z",
-            "active_end_time": "2021-04-09T23:59:59Z",
+            "active_start_time": "2022-04-08T17:00:00Z",
+            "active_end_time": "2022-04-08T23:59:59Z",
             "duration": 360000
         },
         {
             "round": 3,
-            "active_start_time": "2021-04-10T17:00:00Z",
-            "active_end_time": "2021-04-11T01:00:00Z",
+            "active_start_time": "2022-04-09T17:00:00Z",
+            "active_end_time": "2022-04-09T23:59:59Z",
             "duration": 120000
         },
         {
             "round": 4,
-            "active_start_time": "2021-04-11T17:00:00Z",
-            "active_end_time": "2021-04-11T23:59:59Z",
+            "active_start_time": "2022-04-10T17:00:00Z",
+            "active_end_time": "2022-04-10T23:59:59Z",
             "duration": 120000
         }
     ],
@@ -31,16 +31,6 @@
             "api_key": "k7pz4rnd6g387jxcnyg2dvb3",
             "user_name": "jared@avtopia.com",
             "monthly_quota": 10
-        },
-        {
-            "api_key": "fkbpn4xunjbhjjkd3ygs6jms",
-            "user_name": "btownjack@hotmail.com",
-            "monthly_quota": 17
-        },
-        {
-            "api_key": "gu53c6qk2p3nu56dtwkwu2yr",
-            "user_name": "jared.baszler@sodaklabs.com",
-            "monthly_quota": 5
         }
     ]
 }

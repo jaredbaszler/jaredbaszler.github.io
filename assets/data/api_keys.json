@@ -1,19 +1,7 @@
 {
     "api_keys": [
         {
-            "api_key": "fkbpn4xunjbhjjkd3ygs6jms",
-            "email_address": "BTownJack@hotmail.com",
-            "calls_made": 0,
-            "call_quota": 200
-        },
-        {
             "api_key": "k7pz4rnd6g387jxcnyg2dvb3",
-            "email_address": "jared@avtopia.com",
-            "calls_made": 0,
-            "call_quota": 200
-        },
-        {
-            "api_key": "gu53c6qk2p3nu56dtwkwu2yr",
             "email_address": "jared@avtopia.com",
             "calls_made": 0,
             "call_quota": 200

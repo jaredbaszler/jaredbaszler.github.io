@@ -17499,7 +17499,7 @@ _.b=b
 _.c=null
 _.d=c},
 Vi:function Vi(a){this.a=a},
-awW(a){var s,r,q,p,o,n,m,l="http://localhost:8080",k="query"
+awW(a){var s,r,q,p,o,n,m,l="https://mfgbackend.azurewebsites.net",k="query"
 if($.ajr)return
 s=t.z
 r=A.t(s,s)
@@ -17507,7 +17507,7 @@ q=A.jx(l,0,null)
 p=q.gcP()+"://"+q.geK(q)+":"+q.gj2(q)
 o=q.gcZ(q)
 n=$.a8K.a1(0,p)&&$.a8K.h(0,p).c.a1(0,o)
-if(J.e(r.h(0,"forceNew"),!0)||J.e(r.h(0,"force new connection"),!0)||!1===r.h(0,"multiplex")||n){$.al1().am(B.k,"ignoring socket cache for http://localhost:8080",null,null)
+if(J.e(r.h(0,"forceNew"),!0)||J.e(r.h(0,"force new connection"),!0)||!1===r.h(0,"multiplex")||n){$.al1().am(B.k,"ignoring socket cache for https://mfgbackend.azurewebsites.net",null,null)
 m=A.afx(r,l)}else{m=$.a8K.h(0,p)
 if(m==null){m=A.afx(r,l)
 $.a8K.k(0,p,m)}}if(q.ghg(q).length!==0&&r.h(0,k)==null)r.k(0,k,q.ghg(q))
@@ -58259,7 +58259,7 @@ return A.a7($async$jW,r)},
 oC(){var s=0,r=A.a8(t.mb),q,p
 var $async$oC=A.a9(function(a,b){if(a===1)return A.a5(b,r)
 while(true)switch(s){case 0:s=3
-return A.a2(A.aj0("http://localhost:8080/getLeaderboardData"),$async$oC)
+return A.a2(A.aj0("https://mfgbackend.azurewebsites.net/getLeaderboardData"),$async$oC)
 case 3:p=b
 q=A.ah4(B.a2.qa(0,A.aiR(A.ahX(p.e).c.a.h(0,"charset")).cc(0,p.x),null))
 s=1
@@ -58269,7 +58269,7 @@ return A.a7($async$oC,r)},
 oB(){var s=0,r=A.a8(t.zy),q,p
 var $async$oB=A.a9(function(a,b){if(a===1)return A.a5(b,r)
 while(true)switch(s){case 0:s=3
-return A.a2(A.aj0("http://localhost:8080/getDataUpdates"),$async$oB)
+return A.a2(A.aj0("https://mfgbackend.azurewebsites.net/getDataUpdates"),$async$oB)
 case 3:p=b
 q=A.ah2(B.a2.qa(0,A.aiR(A.ahX(p.e).c.a.h(0,"charset")).cc(0,p.x),null))
 s=1
