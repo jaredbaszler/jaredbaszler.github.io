@@ -3,56 +3,40 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d0b989c28e7d4ec0410e6ebc1485141e",
+  "assets/AssetManifest.json": "e860c2260470fa8a7d62d6ab96fe866a",
 "assets/assets/data/2021%2520Results.jpg": "b6342f61d3d154867371e042e31b6181",
+"assets/assets/data/2022%2520Results.png": "14737ae5219c5b50a43ea84ec7e57354",
 "assets/assets/data/api_keys.json": "20571efd65699b90408162894bcff6df",
 "assets/assets/data/last_update.json": "07a9da762d7359a810b7ac63df1aa162",
 "assets/assets/data/leadboard_in_progress_after_cut.json": "3e9c24d0ca85127d33d7c8ac56f671a6",
 "assets/assets/data/leaderboard_in_progress_before_cut.json": "86bda9edb9756a835c21e190d6acfaca",
 "assets/assets/data/NOTES%2520ABOUT%2520CONVERSIONS.txt": "6282a7327eaf815cafb4e642978cd3e8",
-"assets/assets/data/players.json": "9807431ab1db1a2da770896fb9be7dab",
+"assets/assets/data/players.json": "8b68dd365fec089dc39ce4bbb4770fb0",
 "assets/assets/data/responseHeader.txt": "0730bdee90c0de17411d1c81d1a2eebc",
-"assets/assets/data/schedule.json": "fddcdc8d270b91f5185e4567fac4bc1d",
+"assets/assets/data/schedule.json": "a122ff2b570e8bb40d74fa8ee83cddba",
 "assets/assets/data/teams-mini.json": "933d11aff12df4f8f828de0342a259c1",
-"assets/assets/data/teams.json": "385a340d11eb1ecaceb0da179baf1ae2",
-"assets/assets/data/tee_times.json": "f5e43500440acbee92682b90b5799085",
+"assets/assets/data/teams.json": "9eb5f9878e216168035a79dd1790f3fe",
+"assets/assets/data/tee_times.json": "0fbcc9a718c3968f18787a2b6c21d96b",
 "assets/assets/data/tournament_summary.json": "236e42b4877705ea1d0f44a299e38bb8",
 "assets/assets/images/masters_logo_only.gif": "9d2e2b657bb9c99cae461542680c3609",
 "assets/assets/images/masters_logo_transparent.jpg": "5cf2be629cfdd09cecdfdcab12a268e8",
 "assets/assets/images/masters_logo_transparent.png": "37437ee13a49a5d0291f62d4ba844041",
 "assets/assets/images/masters_with_wordmark.gif": "ad4bb2ecc21918329be116ae9ad8b016",
-"assets/data/2021%2520Results.jpg": "b6342f61d3d154867371e042e31b6181",
-"assets/data/api_keys.json": "20571efd65699b90408162894bcff6df",
-"assets/data/last_update.json": "07a9da762d7359a810b7ac63df1aa162",
-"assets/data/leadboard_in_progress_after_cut.json": "3e9c24d0ca85127d33d7c8ac56f671a6",
-"assets/data/leaderboard.json": "0a8275f9e086a9c07165fe1ee3cb9e93",
-"assets/data/leaderboard_in_progress_before_cut.json": "86bda9edb9756a835c21e190d6acfaca",
-"assets/data/NOTES%2520ABOUT%2520CONVERSIONS.txt": "6282a7327eaf815cafb4e642978cd3e8",
-"assets/data/players.json": "9807431ab1db1a2da770896fb9be7dab",
-"assets/data/responseHeader.txt": "0730bdee90c0de17411d1c81d1a2eebc",
-"assets/data/schedule.json": "fddcdc8d270b91f5185e4567fac4bc1d",
-"assets/data/teams-mini.json": "933d11aff12df4f8f828de0342a259c1",
-"assets/data/teams.json": "385a340d11eb1ecaceb0da179baf1ae2",
-"assets/data/tee_times.json": "96dd27c2103bc3d1d2611e2e44e9a52d",
-"assets/data/tournament_summary.json": "236e42b4877705ea1d0f44a299e38bb8",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/images/masters_logo_only.gif": "9d2e2b657bb9c99cae461542680c3609",
-"assets/images/masters_logo_transparent.jpg": "5cf2be629cfdd09cecdfdcab12a268e8",
-"assets/images/masters_logo_transparent.png": "37437ee13a49a5d0291f62d4ba844041",
-"assets/images/masters_with_wordmark.gif": "ad4bb2ecc21918329be116ae9ad8b016",
-"assets/NOTICES": "80569bc1fd8fc0de69071c0c85f7b75c",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/NOTICES": "001f2311533d16428d44eae1a42ceb0b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "37505830a83a3e768b9937a2dfde4a30",
-"/": "37505830a83a3e768b9937a2dfde4a30",
-"main.dart.js": "154079526be43e4667e5ce3f65acc81b",
+"index.html": "b59e1ea192d65e019480233c59ce3ecc",
+"/": "b59e1ea192d65e019480233c59ce3ecc",
+"main.dart.js": "7b27692227f83941892a22e4d8c80659",
 "manifest.json": "50ba9bc564034218a60724dc1757b8d1",
 "version.json": "ebfbd44a2e7df8efa175b9303dfa4843"
 };
@@ -60,10 +44,8 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -162,9 +144,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
