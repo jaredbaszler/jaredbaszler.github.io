@@ -1,29 +1,30 @@
 {
-    "last_update": "2020-11-10T16:10:00Z",
+    "last_update": "2023-04-06T22:06:38.882Z",
+    "is_active": false,
     "update_intervals": [
         {
             "round": 1,
-            "active_start_time": "2022-04-07T17:00:00Z",
-            "active_end_time": "2022-04-07T23:59:59Z",
+            "active_start_time": "2023-04-06T13:00:00Z",
+            "active_end_time": "2023-04-06T23:59:59Z",
             "duration": 360000
         },
         {
             "round": 2,
-            "active_start_time": "2022-04-08T17:00:00Z",
-            "active_end_time": "2022-04-08T23:59:59Z",
-            "duration": 360000
+            "active_start_time": "2023-04-07T13:00:00Z",
+            "active_end_time": "2023-04-07T23:59:59Z",
+            "duration": 120000
         },
         {
             "round": 3,
-            "active_start_time": "2022-04-09T17:00:00Z",
-            "active_end_time": "2022-04-09T23:59:59Z",
-            "duration": 120000
+            "active_start_time": "2023-04-08T15:00:00Z",
+            "active_end_time": "2023-04-08T23:59:59Z",
+            "duration": 60000
         },
         {
             "round": 4,
-            "active_start_time": "2022-04-10T17:00:00Z",
-            "active_end_time": "2022-04-10T23:59:59Z",
-            "duration": 120000
+            "active_start_time": "2023-04-09T15:00:00Z",
+            "active_end_time": "2023-04-09T23:59:59Z",
+            "duration": 60000
         }
     ],
     "calls_made": [
