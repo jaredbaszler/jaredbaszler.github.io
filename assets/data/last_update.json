@@ -1,37 +1,42 @@
 {
-    "last_update": "2023-04-06T22:06:38.882Z",
+    "last_update": "2024-04-09T16:49:42.056Z",
     "is_active": false,
     "update_intervals": [
         {
             "round": 1,
-            "active_start_time": "2023-04-06T13:00:00Z",
-            "active_end_time": "2023-04-06T23:59:59Z",
-            "duration": 360000
+            "active_start_time": "2024-04-11T13:00:00Z",
+            "active_end_time": "2024-04-11T23:59:59Z",
+            "duration": 300000
         },
         {
             "round": 2,
-            "active_start_time": "2023-04-07T13:00:00Z",
-            "active_end_time": "2023-04-07T23:59:59Z",
-            "duration": 120000
+            "active_start_time": "2024-04-12T13:00:00Z",
+            "active_end_time": "2024-04-12T23:59:59Z",
+            "duration": 300000
         },
         {
             "round": 3,
-            "active_start_time": "2023-04-08T15:00:00Z",
-            "active_end_time": "2023-04-08T23:59:59Z",
-            "duration": 60000
+            "active_start_time": "2024-04-13T15:00:00Z",
+            "active_end_time": "2024-04-13T23:59:59Z",
+            "duration": 120000
         },
         {
             "round": 4,
-            "active_start_time": "2023-04-09T15:00:00Z",
-            "active_end_time": "2023-04-09T23:59:59Z",
-            "duration": 60000
+            "active_start_time": "2024-04-09T15:00:00Z",
+            "active_end_time": "2024-04-09T23:59:59Z",
+            "duration": 120000
         }
     ],
     "calls_made": [
         {
-            "api_key": "k7pz4rnd6g387jxcnyg2dvb3",
-            "user_name": "jared@avtopia.com",
-            "monthly_quota": 10
+            "api_key": "hwnKGMIjP069nNLFVQ3pn8921FvTWtQQ145hnIdE",
+            "user_name": "fredboomboomcouples@yopmail.com",
+            "monthly_quota": 0
+        },
+        {
+            "api_key": "p8ndxOtLV0aVpIsjvKdSv94HQIrLqrPJ17Il6zFp",
+            "user_name": "jaredbaszler@yopmail.com",
+            "monthly_quota": 0
         }
     ]
 }
