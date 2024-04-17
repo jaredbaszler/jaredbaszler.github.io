@@ -1,6 +1,6 @@
 {
-    "last_update": "2024-04-09T16:49:42.056Z",
-    "is_active": false,
+    "last_update": "2024-04-12T13:25:59.676Z",
+    "is_active": true,
     "update_intervals": [
         {
             "round": 1,
@@ -22,21 +22,27 @@
         },
         {
             "round": 4,
-            "active_start_time": "2024-04-09T15:00:00Z",
-            "active_end_time": "2024-04-09T23:59:59Z",
+            "active_start_time": "2024-04-14T15:00:00Z",
+            "active_end_time": "2024-04-14T23:59:59Z",
             "duration": 120000
         }
     ],
     "calls_made": [
         {
             "api_key": "hwnKGMIjP069nNLFVQ3pn8921FvTWtQQ145hnIdE",
-            "user_name": "fredboomboomcouples@yopmail.com",
-            "monthly_quota": 0
+            "user_name": "fredboomboomcouples@yopmail.com"
         },
         {
             "api_key": "p8ndxOtLV0aVpIsjvKdSv94HQIrLqrPJ17Il6zFp",
-            "user_name": "jaredbaszler@yopmail.com",
-            "monthly_quota": 0
+            "user_name": "jaredbaszler@yopmail.com"
+        },
+        {
+            "api_key": "h2qbd9Jjhn7r3XEsBoRVY8POWf9rxZzi3cnd2t8c",
+            "user_name": "gregfehrman@yopmail.com"
+        },
+        {
+            "api_key": "8YYwSvuBwQ5Pc63nH810h66mHlkZfCAU77eZO3Aq",
+            "user_name": "hudsoncarpenter@yopmail.com"
         }
     ]
 }
