@@ -2,433 +2,8 @@
     "tournament_name": "BCC Masters Fantasy",
     "fantasy_team": [
         {
-            "teamID": 8,
-            "team_name": "SCHOLTY/ZAC",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "0f2eb1c3-7278-4b5e-af2e-fd67644834b5",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "97cd8ce8-beb2-484e-9081-ccba9baa0607",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "a334e19f-ebb9-4497-b2ad-71b9c1c6e1f8",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "93b79859-43be-44c1-b4ed-6dfc064ead0d",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 9,
-            "team_name": "PRUSSMAN",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "965d925a-5ecd-409c-beb7-a34ef1ca52f3",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "f572509d-7c6d-48b9-9c65-a20f6d2d492b",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "dfbe6c98-2862-4266-a5e4-494003349a31",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "2d568087-700f-44a2-8390-47aa7bafc770",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 10,
-            "team_name": "ROACH/HADLEY",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "7b7291d6-5fb6-4640-a1b4-17fa712f35fb",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "6577ec3d-9e78-4979-8f4c-01c465fa6b1d",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "6787bd96-6bf0-4297-b819-85025f81a3a9",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "1a669884-b715-4d7f-8fe4-63e345cc7f66",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 11,
-            "team_name": "DEAN KROGMAN",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "2094fa02-6411-48df-a717-aa1a7228d645",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "04b52e10-1f50-4efb-9895-86b4107f78c4",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "c11235f6-0f62-4afb-93e7-952dc0554649",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "7a4b2b40-4675-41d9-86fd-cc6a61a1d3b2",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 12,
-            "team_name": "EARLEY BROS",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "4fff3b28-5c2e-4ec3-91d1-696f42638cf4",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "5735703a-32d9-4a6c-8b24-6596f300bc44",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "085c0b40-e456-4d46-b011-f992a4ee8a68",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "4466666b-77b3-4c26-8fbb-f0fd1d179149",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 13,
-            "team_name": "BURGERS/CC",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "9fbf091c-5e4b-42a4-93d7-92a6785a618d",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "dfc22025-5644-4b06-9eac-52db7df7b259",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "502087cf-2c40-4e1d-9649-4f4e6d7d7778",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "88c2edb1-7551-4920-91ad-71c971e51e8c",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 14,
-            "team_name": "HOFLAND",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "aee6ead9-10e0-445b-aa13-d037cc1dd861",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "92544280-0438-4f43-a5f3-f3a21ea55157",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "f2bc6b83-fab1-4567-8bcf-9287d1940f2d",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "0b5d3fd6-e3ec-4efd-8743-60db44c87425",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 15,
-            "team_name": "RAZ/DONNY/BLAKE",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "d072ae36-88f2-4276-b97e-6de87aa2b875",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "25faf9c2-3b45-4630-aac8-d11229cde0a1",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "1330a2ae-16d0-433f-8382-e26cdce78ac7",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "5e4d3877-596c-4165-93d6-cda69c29447a",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 16,
-            "team_name": "EIZY/BOBBY",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "f33d746b-8e14-4325-a4e1-81d6f983b163",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "f0ff1391-fc29-41bf-b46a-cd5ef9f63ad9",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "5a9ea77c-7323-4f26-86b5-f6adc3b7e00a",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "20be4865-0813-4e80-87fd-d2294cd6996c",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 17,
-            "team_name": "HAK/MELMER/JR",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "8e3fb27f-d585-4b9e-9c0e-284a654969f5",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "a7041051-eb25-40b9-acb3-dab88cae69c0",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "3f423647-083c-4da9-8ee6-344df4af116f",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "7eb71731-d2f6-4d1e-86ae-a93ba4c2d20e",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 18,
-            "team_name": "MATTY/BAZ",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "4249bf6e-9723-4a4a-9ddd-515022618de9",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "f59ddf3e-5f14-42b3-9cf1-b681cd0d35a0",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "4e93ec3d-3ca8-4755-a874-4d1e5c18ccbf",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "f1fb4562-ffe8-4539-927b-0ffd13e9533f",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 3,
-            "team_name": "PAULSEN/FRANK",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "26dc0bda-b9a8-4303-9c1c-ddecda3817d2",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "b7519c68-a6b3-4d99-b772-5bc951357592",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "5488bb49-3607-4517-a3a1-5cf68737aa37",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "59e38135-5887-43e5-b6ab-25cbfedcd6e5",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 4,
-            "team_name": "HOMER/HUNGY",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "f555d8b6-f0af-4cce-aa5b-de981d89bc69",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "aca3420a-9ed0-444d-b214-f831561f7c71",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "c01c741a-fd91-4e1c-8d39-ec448fc37e0a",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "93b79859-43be-44c1-b4ed-6dfc064ead0d",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 5,
-            "team_name": "TEDD/JD",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "7b52b9be-a490-4569-9bbc-57db5f232dcb",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "12195ed9-3fcd-486a-86b4-1ec726d201cd",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "d74e6369-dcb4-4225-8152-90d3f19d2517",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "5f5295f6-93c0-48ae-ac53-7f398289ccf0",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 6,
-            "team_name": "KROGMAN BROS",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "d45bcf4a-5803-4b0b-ab6c-6427a76cecf7",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "ce5a1cd5-bf8c-4f0d-9903-844ec3aa7e10",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "e4f92dca-86d5-441e-8a2d-55d5360937c5",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "e41af6b5-ca88-40e9-8877-b00a8f844586",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 7,
-            "team_name": "RYNO/PALMER",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "3e4963cb-6e80-4393-85cf-2aecec453c4a",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "d8a9ce2c-9bdf-4e54-b53e-58692a1f4d59",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "fcab0418-7f9f-4039-8a2c-7d6842461cfa",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
             "teamID": 1,
-            "team_name": "5 STOOGES",
-            "team_score": 0,
-            "team_rank": 1,
-            "tied": false,
-            "team_member": [
-                {
-                    "golferID": "6db3e736-d86d-4181-aa3b-651b8c1bfdc1",
-                    "draft_order": 1
-                },
-                {
-                    "golferID": "ac1db384-8cb4-4223-bc46-60f4ed963645",
-                    "draft_order": 2
-                },
-                {
-                    "golferID": "45be1496-ea36-4c0c-8573-4a457ab70573",
-                    "draft_order": 3
-                },
-                {
-                    "golferID": "7edd8344-4f0b-4ea0-beb2-cdb5c093890f",
-                    "draft_order": 4
-                }
-            ]
-        },
-        {
-            "teamID": 2,
-            "team_name": "MURRAY",
+            "team_name": "Ryan Krogman",
             "team_score": 0,
             "team_rank": 1,
             "tied": false,
@@ -438,15 +13,440 @@
                     "draft_order": 1
                 },
                 {
-                    "golferID": "0096b26b-fc25-4fcf-90b9-4b796e3f6c5a",
+                    "golferID": "37221a6c-c8c4-4eaa-beba-715f6e781962",
                     "draft_order": 2
                 },
                 {
-                    "golferID": "21886b8c-d915-4bbc-9bda-0352821c432b",
+                    "golferID": "509991b7-9e9d-48be-9a3b-b75fd23be6ff",
                     "draft_order": 3
                 },
                 {
-                    "golferID": "cb1856a9-b6ef-45ca-9ad7-9c02501f2481",
+                    "golferID": "9968007c-a481-4b66-9c2b-8e752b9537eb",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 2,
+            "team_name": "Matty/Basz",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "6db3e736-d86d-4181-aa3b-651b8c1bfdc1",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "0b5d3fd6-e3ec-4efd-8743-60db44c87425",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "88c2edb1-7551-4920-91ad-71c971e51e8c",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "7c9efe97-b74b-42d0-b849-1775e6fda93e",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 3,
+            "team_name": "3 Stooges",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "f0ff1391-fc29-41bf-b46a-cd5ef9f63ad9",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "aca3420a-9ed0-444d-b214-f831561f7c71",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "92544280-0438-4f43-a5f3-f3a21ea55157",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "0dab2467-b758-4d5a-9d15-e591b5945b4c",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 4,
+            "team_name": "Homer",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "4fff3b28-5c2e-4ec3-91d1-696f42638cf4",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "97cd8ce8-beb2-484e-9081-ccba9baa0607",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "45be1496-ea36-4c0c-8573-4a457ab70573",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "8e3fb27f-d585-4b9e-9c0e-284a654969f5",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 5,
+            "team_name": "Prusmman",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "7b52b9be-a490-4569-9bbc-57db5f232dcb",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "a334e19f-ebb9-4497-b2ad-71b9c1c6e1f8",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "04b52e10-1f50-4efb-9895-86b4107f78c4",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "5488bb49-3607-4517-a3a1-5cf68737aa37",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 6,
+            "team_name": "Burgers / CC",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "0096b26b-fc25-4fcf-90b9-4b796e3f6c5a",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "f572509d-7c6d-48b9-9c65-a20f6d2d492b",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "3f423647-083c-4da9-8ee6-344df4af116f",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "93b79859-43be-44c1-b4ed-6dfc064ead0d",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 7,
+            "team_name": "Palmer / Ryno",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "2094fa02-6411-48df-a717-aa1a7228d645",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "b7519c68-a6b3-4d99-b772-5bc951357592",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "7fdc75ca-2c33-49b8-8738-a8ea06fb51ed",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "8593b951-98f9-4757-bed3-3e922c989d2f",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 8,
+            "team_name": "Scholty/Brandon",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "f59ddf3e-5f14-42b3-9cf1-b681cd0d35a0",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "c11235f6-0f62-4afb-93e7-952dc0554649",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "f2bc6b83-fab1-4567-8bcf-9287d1940f2d",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "e4f92dca-86d5-441e-8a2d-55d5360937c5",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 9,
+            "team_name": "Hofland",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "26dc0bda-b9a8-4303-9c1c-ddecda3817d2",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "12195ed9-3fcd-486a-86b4-1ec726d201cd",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "f04f89c3-3f8f-4009-bc49-0de2a634ead3",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "5f5295f6-93c0-48ae-ac53-7f398289ccf0",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 10,
+            "team_name": "Frank/Paulson",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "965d925a-5ecd-409c-beb7-a34ef1ca52f3",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "f33d746b-8e14-4325-a4e1-81d6f983b163",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "9fbf091c-5e4b-42a4-93d7-92a6785a618d",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "8454b651-9427-488d-a405-8e0219741c6e",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 11,
+            "team_name": "Blake/Donny",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "6577ec3d-9e78-4979-8f4c-01c465fa6b1d",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "0f2eb1c3-7278-4b5e-af2e-fd67644834b5",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "ac1db384-8cb4-4223-bc46-60f4ed963645",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "f8a4cccc-bf81-4863-99a5-60b13d911184",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 12,
+            "team_name": "Early Bros",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "aee6ead9-10e0-445b-aa13-d037cc1dd861",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "25faf9c2-3b45-4630-aac8-d11229cde0a1",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "7a4b2b40-4675-41d9-86fd-cc6a61a1d3b2",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "b2cde176-328d-4856-9684-6885a1651f57",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 13,
+            "team_name": "Hadley / Roach",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "3e4963cb-6e80-4393-85cf-2aecec453c4a",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "99f32016-2a65-4652-8662-e810556ca542",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "dae7d61f-bde2-4182-9e99-06b48689f004",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "77a9104b-6fd4-40b7-85e2-10b2448a8f86",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 14,
+            "team_name": "Steens",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "f555d8b6-f0af-4cce-aa5b-de981d89bc69",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "502087cf-2c40-4e1d-9649-4f4e6d7d7778",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "7161a8f8-bd34-4b09-a3b5-0ada7f148b7f",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "4d70e4fe-4a2a-44f4-9fd0-a7b76b3828ca",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 15,
+            "team_name": "Coble & Company",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "d45bcf4a-5803-4b0b-ab6c-6427a76cecf7",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "dfc22025-5644-4b06-9eac-52db7df7b259",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "6787bd96-6bf0-4297-b819-85025f81a3a9",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "20be4865-0813-4e80-87fd-d2294cd6996c",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 16,
+            "team_name": "Eizy",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "d072ae36-88f2-4276-b97e-6de87aa2b875",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "7b7291d6-5fb6-4640-a1b4-17fa712f35fb",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "31f03fb8-f92c-4853-8805-c668430cecc2",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "5a9ea77c-7323-4f26-86b5-f6adc3b7e00a",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 17,
+            "team_name": "Tedd / JD",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "7b52b9be-a490-4569-9bbc-57db5f232dcb",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "4249bf6e-9723-4a4a-9ddd-515022618de9",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "a7041051-eb25-40b9-acb3-dab88cae69c0",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
+                    "draft_order": 4
+                }
+            ]
+        },
+        {
+            "teamID": 18,
+            "team_name": "Dean Krogman",
+            "team_score": 0,
+            "team_rank": 1,
+            "tied": false,
+            "team_member": [
+                {
+                    "golferID": "d8a9ce2c-9bdf-4e54-b53e-58692a1f4d59",
+                    "draft_order": 1
+                },
+                {
+                    "golferID": "dfbe6c98-2862-4266-a5e4-494003349a31",
+                    "draft_order": 2
+                },
+                {
+                    "golferID": "0f5da2c3-5994-456b-b676-9c9c6f8550b2",
+                    "draft_order": 3
+                },
+                {
+                    "golferID": "c4c3d105-7c57-4caa-b941-f86cd8b3d97c",
                     "draft_order": 4
                 }
             ]
