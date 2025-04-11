@@ -1,0 +1,40 @@
+{
+    "last_update": "2024-04-11T01:00:00.162Z",
+    "is_active": false,
+    "update_intervals": [
+        {
+            "round": 1,
+            "active_start_time": "2025-04-10T13:00:00Z",
+            "active_end_time": "2025-04-11T01:00:00Z",
+            "duration": 240000
+        },
+        {
+            "round": 2,
+            "active_start_time": "2025-04-11T09:00:00Z",
+            "active_end_time": "2025-04-12T01:00:00Z",
+            "duration": 180000
+        },
+        {
+            "round": 3,
+            "active_start_time": "2025-04-12T15:00:00Z",
+            "active_end_time": "2025-04-12T23:59:59Z",
+            "duration": 120000
+        },
+        {
+            "round": 4,
+            "active_start_time": "2025-04-13T15:00:00Z",
+            "active_end_time": "2025-04-13T23:59:59Z",
+            "duration": 60000
+        }
+    ],
+    "calls_made": [
+        {
+            "api_key": "cYgLqhowDgJfbvLvIXIWH3wMPlbMP97bCkASFpwB",
+            "user_name": "jordanjacobsen@yopmail.com"
+        },
+        {
+            "api_key": "dGumCEou2KaAAjdk20rYdx4Ykr1DOZfi4aLRJlGR",
+            "user_name": "briankvamme@yopmail.com"
+        }
+    ]
+}
