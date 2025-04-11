@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/data/2021%2520Results.jpg": "b6342f61d3d154867371e042e31b6181",
 "assets/assets/data/2022%2520Results.png": "14737ae5219c5b50a43ea84ec7e57354",
 "assets/assets/data/api_keys.json": "20571efd65699b90408162894bcff6df",
-"assets/assets/data/last_update.json": "8c2529d8584767ab8a867ef7ec59f6f0",
+"assets/assets/data/last_update.json": "c700fe846255c94dda00fffb70959f9b",
 "assets/assets/data/leadboard_in_progress_after_cut.json": "3e9c24d0ca85127d33d7c8ac56f671a6",
 "assets/assets/data/leaderboard_in_progress_before_cut.json": "86bda9edb9756a835c21e190d6acfaca",
 "assets/assets/data/NOTES%2520ABOUT%2520CONVERSIONS.txt": "6282a7327eaf815cafb4e642978cd3e8",
@@ -54,9 +54,9 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "826fef249d2212a4eae3a6745db0a572",
-"/": "826fef249d2212a4eae3a6745db0a572",
-"main.dart.js": "77474eb9401aaca9250035ddfc19fabe",
+"index.html": "1d49eb5667deb2a7ccc2909088486106",
+"/": "1d49eb5667deb2a7ccc2909088486106",
+"main.dart.js": "c64e9101180df49688d8badad299cf82",
 "manifest.json": "50ba9bc564034218a60724dc1757b8d1",
 "version.json": "ebfbd44a2e7df8efa175b9303dfa4843"
 };
